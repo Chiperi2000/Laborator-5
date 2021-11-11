@@ -8,3 +8,4 @@ lista = lista_noua
 
 print("Acesta este elementul unic:")
 print(lista_noua)
+
